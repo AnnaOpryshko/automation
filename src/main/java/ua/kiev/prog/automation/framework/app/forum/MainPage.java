@@ -1,6 +1,5 @@
 package ua.kiev.prog.automation.framework.app.forum;
 
-import org.openqa.selenium.By;
 import ua.kiev.prog.automation.framework.app.forum.blocks.MainMenuBlock;
 import ua.kiev.prog.automation.framework.base.Locator;
 import ua.kiev.prog.automation.framework.base.PageObject;
